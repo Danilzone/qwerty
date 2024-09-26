@@ -5,7 +5,7 @@
 
 
 
-##📁Практическая 1
+## 📁Практическая 1
 
 ### Задание № 1: Простой калькультр ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/1.png)
 ### Задание № 2: Конвектор температур ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/2.png)
