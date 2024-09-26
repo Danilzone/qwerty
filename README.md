@@ -1,6 +1,6 @@
 ### ---------------------- Homework ----------------------
 ### 1.
-<a name="твоё_название">test</a> 
+* [Server Requirements](#server-requirements)
 
 
 
@@ -37,7 +37,8 @@
 
 ### 9.
 ![9](https://github.com/user-attachments/assets/7e2bff35-945e-4a50-9247-bcd5020b15fd)
-
+## Server Requirements
+---------------------
 
 [Текст ссылки](#твоё_название)
 ### 10.
