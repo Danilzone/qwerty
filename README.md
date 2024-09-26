@@ -29,4 +29,22 @@
 
 ## 📁Практическая 2 
 
-///
+### Задание № 1: Объявление и инициализации переменной типа Int ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/pract2/1.png)
+### Задание № 2: Объявление и инициализации переменной типа double ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/pract2/2.png)
+### Задание № 3: Объявление и инициализации переменной типа String ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/pract2/3.png)
+### Задание № 4: Объявление и инициализации переменной типа bool ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/pract2/4.png)
+### Задание № 5: Объявление и инициализации переменной типа List ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/pract2/5.png)
+### Задание № 6: Объявление и инициализации переменной типа Map ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/pract2/6.png)
+### Задание № 7: Объявление и инициализации переменной типа Set ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/pract2/7.png)
+### Задание № 8: Объявление и инициализации переменной типа Runes ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/pract2/8.png)
+### Задание № 9: Объявление и инициализации переменной типа Symbol ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/pract2/9.png)
+### Задание № 10: Объявление и инициализации переменной типа dynamic ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/pract2/10.png)
+### Задание № 11: Объявление и инициализации переменной типа var ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/pract2/11.png)
+### Задание № 12: Объявление и инициализации переменной типа final ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/pract2/12.png)
+### Задание № 13: Объявление и инициализации переменной типа const![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/pract2/13.png)
+### Задание № 14: Объявление и инициализации переменной типа Datetime ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/pract2/14.png)
+### Задание № 15: Объявление и инициализации переменной типа Duration ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/pract2/15.png)
+### Задание № 16: Объявление и инициализации переменной типа BigInt ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/pract2/16.png)
+### Задание № 17: Объявление и инициализации переменной типа num ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/pract2/17.png)
+### Задание № 18: Объявление и инициализации переменной типа StringBuffer ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/pract2/18.png)
+### Задание № 19: Объявление и инициализации переменной типа Uri ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/pract2/19.png)
