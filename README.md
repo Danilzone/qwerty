@@ -27,3 +27,6 @@
 ### Задание № 18: Проверка на четность ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/18.PNG)
 ### Задание № 19: Калькультр процентов ![](https://github.com/Danilzone/qwerty/blob/main/src/screenshots/19.PNG)
 
+## 📁Практическая 2
+
+///
