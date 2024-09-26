@@ -1,5 +1,17 @@
 ### ---------------------- Homework ----------------------
 ### 1.
+<a name="твоё_название">test</a> 
+
+
+
+
+
+
+
+
+
+
+
 ![1](https://github.com/user-attachments/assets/bdd4074b-34a4-4ac6-a735-fbab379e2c2c)
 
 ### 2.
@@ -26,5 +38,7 @@
 ### 9.
 ![9](https://github.com/user-attachments/assets/7e2bff35-945e-4a50-9247-bcd5020b15fd)
 
+
+[Текст ссылки](#твоё_название)
 ### 10.
 ![10](https://github.com/user-attachments/assets/ad6b45db-7a62-4d57-a247-f42c1adc3842)
